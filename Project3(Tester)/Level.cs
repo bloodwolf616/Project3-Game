@@ -1,6 +1,6 @@
 namespace TreehouseDefense
 {
-    class Level
+    public class Level
     {
         private readonly IInvader[] _invaders;
         

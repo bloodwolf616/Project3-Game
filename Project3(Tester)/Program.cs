@@ -7,7 +7,7 @@ using TreehouseDefense;
 
 namespace Project3_Tester_
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {

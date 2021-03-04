@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TreehouseDefense
 {
-    class PowerfulTower : Tower
+    public class PowerfulTower : Tower
     {
         protected override int Power { get; } = 3;
 

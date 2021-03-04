@@ -2,7 +2,7 @@ using System;
 
 namespace TreehouseDefense
 {
-    class Tower
+    public class Tower
     {
         protected virtual int Range { get; } = 1;
         protected virtual int Power { get; } = 1;

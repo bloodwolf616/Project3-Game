@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TreehouseDefense
 {
-    class BasicInvader : Invader
+    public class BasicInvader : Invader
     {
        
 
